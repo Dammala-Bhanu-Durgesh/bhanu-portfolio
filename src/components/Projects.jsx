@@ -28,7 +28,7 @@ const projects = [
     title: "Portfolio Website",
     description: "Personal portfolio built with React, Tailwind CSS and Framer Motion with a dynamic theme.",
     tech: ["React", "Tailwind", "Framer Motion"],
-    github: "#",
+    github: "https://github.com/Dammala-Bhanu-Durgesh/bhanu-portfolio",
   },
 ];
 
